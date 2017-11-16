@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">spinner</string>
+
+    <string-array name="operating_system">
+        <item>android</item>
+        <item>windows</item>
+        <item>mac</item>
+        <item>linux</item>
+    </string-array>
+    <string name="title_activity_android">Android</string>
+    <string name="title_activity_windows">Windows</string>
+
+</resources>
